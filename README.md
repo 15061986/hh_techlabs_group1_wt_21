@@ -11,4 +11,4 @@ The group project "Nivea Star Trekker" worked on a data set originating from the
 <p> Notebook 1: First Data Exploration</p>
 <p> Notebook 2: Further Data Exploration</p>
 <p> Notebook 3: First Steps With SpaCy & Word Cloud</p>
-<p> Notebook 4: Final Steps - SpaCy & Classification Models</p>
+<p> Notebook 4: Final Steps - SpaCy & Classification Models (including the prototype model "Nivea Star Trekker")</p>
